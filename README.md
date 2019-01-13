@@ -6,4 +6,4 @@ This directory will provide access to low-cost veterinary and other pet health s
 
 Hours, addresses, and specialties will all be included to take the guesswork out of building a relationship with a veterinarian to provide them the best. Pet-friendly spaces and events will also be included to make this a resource for all pet owners.
 
-Built in Drupal 7. Uses a combination of
+Built in Drupal 7. Uses a combination of Addressfield, Geofield and Geocoder to create maps.
